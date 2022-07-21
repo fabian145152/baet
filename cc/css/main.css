@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.form-signin {
+    max-width: 380px;
+    padding: 15px 35px 45px 35px;
+    margin: 0px auto;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+#wrapper {
+    font-family: 'Lato', sans-serif;
+    background-color: #eee;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+input[type="text"] {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+input[type="password"] {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+#salir_buscar {
+    display: inline-block
+}
+
+a {
+    display: block;
+    text-align: center;
+}

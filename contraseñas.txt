@@ -1,0 +1,44 @@
+
+e-traks
+user: diego@baet
+pass: 5340
+------------------------------------------------------------------------
+ELEA
+user: rtpampa
+pass: rtpampa
+------------------------------------------------------------------------
+sincropool PAMPA
+user: radiotaxipampa1@gmail.com
+pass: pampa72672taxi
+
+Sincropool CIBER
+user: pampataxis@gmail.com
+pass: P40m4Pix1Tptir
+
+Sincropool BAET
+user: remisessincropool@gmail.com
+pass: baet625284agencia
+
+Sincropool PORTEÑO
+user: pedidosportenio@gmail.com
+pass: o0rRra7ñ0aaR
+------------------------------------------------------------------------
+TTS
+user: radiotaxipampa1@gmail.com
+pass: TTS2020
+
+http://www.v2.mabmobile.com.ar/login
+user:  taxipampa@ticketya.com
+pass  mab2022
+------------------------------------------------------------------------
+GESTION COMPARTIDA
+
+user: radiotaxipampa1@gmail.com
+pass: portenio1979
+Seleccionar proveedor
+------------------------------------------------------------------------
+E-mail
+user: radiotaxipampa1@gmail.com
+pass: Lafuente1499
+
+
